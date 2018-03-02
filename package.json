@@ -1,6 +1,6 @@
 {
   "name": "ngf-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An express server for use in an Angular Fundamentals course",
   "main": "server/server.js",
   "scripts": {
