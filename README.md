@@ -1,7 +1,9 @@
 # ngf-server
 
-This project contains a custom api server for an Angular Fundamentals course on Pluralsight. 
+This project contains a custom api server for an Angular Fundamentals course on Pluralsight.
+
 https://app.pluralsight.com/library/courses/angular-fundamentals/table-of-contents
+
 Referenced in section "Communicating with the Server Using HTTP, Observables, and Rx"
 
 ## Installing
