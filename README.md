@@ -19,3 +19,7 @@ Running within the package:
 Running after installing the package as a project dependency:
 
 `> node node_modules/ngf-server/server.js`
+
+## Login
+
+The only valid user login is username: `johnpapa`, with any password.
