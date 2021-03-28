@@ -23,5 +23,5 @@ module.exports = function(app) {
   
   app.use(express.static(rootPath));
   app.use(express.static(rootPath + '/dist/ng-fundamentals'));
-  app.use('/events', express.static(rootPath));
+  app.use('/events/', express.static(rootPath + '/dist/ng-fundamentals'));
 }
