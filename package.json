@@ -19,7 +19,7 @@
     "cookie-parser": "1.4.1",
     "express": "4.13.4",
     "express-session": "1.13.0",
-    "morgan": "1.7.0"
+    "morgan": "1.9.1"
   },
   "bugs": {
     "url": "https://github.com/jmcooper/ngf-server/issues"
